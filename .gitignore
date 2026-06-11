@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+.vscode/
+script.sql
+nssm.exe
+start
+r2sync_service.log
